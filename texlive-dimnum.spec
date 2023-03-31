@@ -1,6 +1,6 @@
 Name:		texlive-dimnum
 Version:	58774
-Release:	1
+Release:	2
 Summary:	Commands for dimensionless numbers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dimnum
