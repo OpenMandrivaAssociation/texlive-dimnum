@@ -3,7 +3,7 @@ Version:	58774
 Release:	2
 Summary:	Commands for dimensionless numbers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dimnum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dimnum
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dimnum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dimnum.doc.r%{version}.tar.xz
